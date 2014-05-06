@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #560C47;
+}
+body{
+	padding: 120px;
+    background-color: #E2ECEE;
+}
+.contacto{
+    border: 1px solid #560C47;
+    border-radius: 6px;
+    padding: 45px 45px 20px;
+    margin-top: 50px;
+    background-color: #560C47 ;
+    box-shadow: 0px 5px 10px #560C47, 0 0 0 10px #560C47  inset;
+}
+.contacto label{
+    display: block;
+    font-weight: bold;
+}
+.contacto div{
+    margin-bottom: 15px;
+}
+.contacto input[type='text'], .contacto textarea{
+    padding: 7px 6px;
+    width: 294px;
+    border: 1px solid #560C47;
+    resize: none;
+    box-shadow:0 0 0 3px #560C47;
+    margin: 5px 0;
+}
+.contacto input[type='text']:focus, .contacto textarea:focus{
+    outline: none;
+    box-shadow:0 0 0 3px #560C47;
+}
+.contacto input[type='submit']{
+    border: 1px solid #560C47;
+    box-shadow:0 0 0 3px #560C47;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #560C47 ;
+ 
+    background: #e4f1f6;
+    background: -moz-linear-gradient(top, #560C47  0%, #560C47 100%);
+    background: -webkit-linear-gradient(top, #560C47  0%,#560C47 100%);
+}
+.contacto input[type='submit']:hover{
+    background: #edfcff;
+    background: -moz-linear-gradient(top, #560C47  0%, #560C47  100%);
+    background: -webkit-linear-gradient(top, #560C47  0%,#560C47  100%);
+}
+.contacto input[type='submit']:active{
+    background: #cfe6ef;
+    background: -moz-linear-gradient(top, #560C47  0%, #560C47  100%);
+    background: -webkit-linear-gradient(top, #560C47  0%,#560C47  100%);
+}

@@ -1,0 +1,81 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+#presentacion{
+    background-color: #F5F5F5;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0 0 22px #111111;
+    height: 475px;
+    margin: 190px auto 0;
+    position: relative;
+    width: 665px;
+}
+
+#presentacion ul{
+    height: 440px;
+    left: 10px;
+    list-style: none outside none;
+    overflow: hidden;
+    position: absolute;
+    top: 10px;
+    width: 620px;
+}
+
+#presentacion li{
+    position:absolute;
+    display:none;
+    z-index:10;
+}
+
+#presentacion li:first-child{
+    display:block;
+    z-index:1000;
+}
+
+#presentacion .flecha{
+    height:86px;
+    width:60px;
+    position:absolute;
+    background:url('img/flechas.png') no-repeat;
+    top:50%;
+    margin-top:-43px;
+    cursor:pointer;
+    z-index:5000;
+    right: 30px;
+}
+
+#presentacion .anterior{ 
+    background-position:left top;
+    left:-75px;
+}
+    
+#presentacion .anterior:hover{ 
+    background-position:left bottom;
+}
+
+#presentacion .siguiente{ 
+    background-position:right top;
+    right:-75px;
+}
+
+#presentacion .siguiente:hover{ 
+    background-position:right bottom;
+}
+
+#presentacion .derechos{
+    position: absolute;
+    top: 105%;
+    left: 25%;
+}
+
+#presentacion canvas{
+    display:none;
+    position:absolute;
+    z-index:100;
+}
+
+#presentacion .imagenActiva{
+    z-index:1000;
+}
