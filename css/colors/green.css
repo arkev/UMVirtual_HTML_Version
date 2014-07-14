@@ -47,6 +47,8 @@ ol.comment-list .comment-author a:hover,
 	color: #560C47/*#93ac12*/;
 }
 
+a.button.inactive{opacity: .2;margin-bottom: 6px;}
+
 /* ---------------------------------------------------------------------- */
 /* Background Colors
 /* ---------------------------------------------------------------------- */
