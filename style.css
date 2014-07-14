@@ -269,9 +269,7 @@ img.aligncenter {
 	color: #999;	
 }
 
-.invisible {
-	display: none !important;	
-}
+.invisible {display: none !important;}
 
 hr {
 	background-color: #e5e5e5;

@@ -890,6 +890,7 @@ jQuery(document).ready(function ($) {
         $optionSet.find('.selected').removeClass('selected');
         $this.addClass('selected');
     });
+ 
 
     /* ---------------------------------------------------------------------- */
     /* Form Validation
