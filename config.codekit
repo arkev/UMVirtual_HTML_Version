@@ -482,6 +482,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/evangelismo-tecnologico-spot3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/evangelismo-tecnologico-spot3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/full-width-page.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2296,6 +2305,17 @@
 		"initialSize": 119248,
 		"inputAbbreviatedPath": "\/images\/estudiante.jpg",
 		"outputAbbreviatedPath": "\/images\/estudiante.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Evangelismo-Tecnologico.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220280,
+		"inputAbbreviatedPath": "\/images\/Evangelismo-Tecnologico.jpg",
+		"outputAbbreviatedPath": "\/images\/Evangelismo-Tecnologico.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5309,6 +5329,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/portafolio-fundamento_sisedu.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portafolio-fundamento_sisedu.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/portafolio-herramientas.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5548,6 +5577,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/portafolio_M1DiplomadoVts_Tecnicas.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Portafolio_Modelo2030.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Portafolio_Modelo2030.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
