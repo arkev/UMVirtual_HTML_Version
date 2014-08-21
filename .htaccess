@@ -4,3 +4,5 @@ RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html
 
 ErrorDocument 404 /404-error-page
+
+RewriteRule  ^diplomado_estilos_saludables$ /portafolio-vidasaludable.html [QSA,L]
