@@ -6,3 +6,9 @@ RewriteRule ^(.*)$ $1.html
 ErrorDocument 404 /404-error-page
 
 RewriteRule  ^diplomado_estilos_saludables$ /portafolio-vidasaludable.html [QSA,L]
+RewriteRule  ^8_habitos_saludables$ /portafolio-8Remedios.html [QSA,L]
+RewriteRule  ^estilo_vida_saludable$ /Portafolio-estilos-vida.html [QSA,L]
+RewriteRule  ^promotores_salud_evangelismo$ /Portafolio-promotores-salud.html [QSA,L]
+RewriteRule  ^implementacion_QVS_instituciones_educativas$ /Portafolio-estrategias-implementacion.html [QSA,L]
+RewriteRule  ^como_crear_centro_influencia$ /Portafolio-centros-influencia.html [QSA,L]
+RewriteRule  ^activacion_fisica_bienestar_personal$ /Portafolio-Activacion-fisica.html [QSA,L]
