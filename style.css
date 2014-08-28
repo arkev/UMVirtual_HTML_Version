@@ -110,6 +110,10 @@ video {
     height: auto;
 }
 
+.mt3px{margin-top: 3px;}
+.mt10px{margin-top: 10px;}
+.mb3px{margin-bottom: 3px;}
+
 /* Clearfix */
 
 .clear {
