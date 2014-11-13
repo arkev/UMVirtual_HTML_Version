@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17018",
+"creatorBuild": "17580",
 "files": {
 	"\/404-error-page.html": {
 		"fileType": 8192,
@@ -444,6 +444,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/educacion_cristiana_vs_secular.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/educacion_cristiana_vs_secular.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/elements.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -458,6 +467,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/estilos.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/estrategia-entrevista-aconsejamiento.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/estrategia-entrevista-aconsejamiento.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -491,6 +509,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/experienciaUM.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/experienciaUM.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/formacion_del_caracter.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/formacion_del_caracter.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/full-width-page.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -505,6 +541,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/grid-columns.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/griego_1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/griego_1.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -989,6 +1034,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/bibliap.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62362,
+		"inputAbbreviatedPath": "\/images\/bibliap.jpg",
+		"outputAbbreviatedPath": "\/images\/bibliap.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/block-16.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1161,6 +1217,17 @@
 		"initialSize": 120293,
 		"inputAbbreviatedPath": "\/images\/c-influencia.jpg",
 		"outputAbbreviatedPath": "\/images\/c-influencia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/caracter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89593,
+		"inputAbbreviatedPath": "\/images\/caracter.jpg",
+		"outputAbbreviatedPath": "\/images\/caracter.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1546,6 +1613,17 @@
 		"initialSize": 93623,
 		"inputAbbreviatedPath": "\/images\/educacion.png",
 		"outputAbbreviatedPath": "\/images\/educacion.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/educacioncristiana.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91234,
+		"inputAbbreviatedPath": "\/images\/educacioncristiana.jpg",
+		"outputAbbreviatedPath": "\/images\/educacioncristiana.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2496,6 +2574,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/gil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27472,
+		"inputAbbreviatedPath": "\/images\/gil.jpg",
+		"outputAbbreviatedPath": "\/images\/gil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/girl-and-bible.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106812,
+		"inputAbbreviatedPath": "\/images\/girl-and-bible.jpg",
+		"outputAbbreviatedPath": "\/images\/girl-and-bible.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68395,
+		"inputAbbreviatedPath": "\/images\/hil.jpg",
+		"outputAbbreviatedPath": "\/images\/hil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/huerto.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2881,6 +2992,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/intro-investigacion.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154724,
+		"inputAbbreviatedPath": "\/images\/intro-investigacion.jpg",
+		"outputAbbreviatedPath": "\/images\/intro-investigacion.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/jquery.slideshow.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -2910,6 +3032,17 @@
 		"initialSize": 71385,
 		"inputAbbreviatedPath": "\/images\/kari.jpg",
 		"outputAbbreviatedPath": "\/images\/kari.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/la-entrevista.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36683,
+		"inputAbbreviatedPath": "\/images\/la-entrevista.jpg",
+		"outputAbbreviatedPath": "\/images\/la-entrevista.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2954,6 +3087,17 @@
 		"initialSize": 311335,
 		"inputAbbreviatedPath": "\/images\/large\/4.jpg",
 		"outputAbbreviatedPath": "\/images\/large\/4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/lety.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13217,
+		"inputAbbreviatedPath": "\/images\/lety.jpg",
+		"outputAbbreviatedPath": "\/images\/lety.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3167,6 +3311,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/ntestamento.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86511,
+		"inputAbbreviatedPath": "\/images\/ntestamento.jpg",
+		"outputAbbreviatedPath": "\/images\/ntestamento.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/orando.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68265,
+		"inputAbbreviatedPath": "\/images\/orando.jpg",
+		"outputAbbreviatedPath": "\/images\/orando.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/Orienfam.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3229,6 +3395,17 @@
 		"initialSize": 1559,
 		"inputAbbreviatedPath": "\/images\/overlay-zoom.png",
 		"outputAbbreviatedPath": "\/images\/overlay-zoom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/partenon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234765,
+		"inputAbbreviatedPath": "\/images\/partenon.jpg",
+		"outputAbbreviatedPath": "\/images\/partenon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3979,6 +4156,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/spot3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40639,
+		"inputAbbreviatedPath": "\/images\/spot3.jpg",
+		"outputAbbreviatedPath": "\/images\/spot3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/team-member-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4419,6 +4607,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/vida-pareja.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77620,
+		"inputAbbreviatedPath": "\/images\/vida-pareja.jpg",
+		"outputAbbreviatedPath": "\/images\/vida-pareja.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/video-maestria.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4426,6 +4625,17 @@
 		"initialSize": 52296,
 		"inputAbbreviatedPath": "\/images\/video-maestria.jpg",
 		"outputAbbreviatedPath": "\/images\/video-maestria.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/VS.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171213,
+		"inputAbbreviatedPath": "\/images\/VS.jpg",
+		"outputAbbreviatedPath": "\/images\/VS.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4519,6 +4729,69 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/introduccion_a_la_investigacion.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/introduccion_a_la_investigacion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/items-administracion.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/items-administracion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/items-educacion.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/items-educacion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/items-gratis.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/items-gratis.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/items-relaciones-familiares.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/items-relaciones-familiares.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/items-salud.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/items-salud.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/items-teologia.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/items-teologia.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5023,6 +5296,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/newsletter\/tabla-cursos.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/newsletter\/tabla-cursos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/page-administracion-educativa.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5140,15 +5422,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/portafolio-ConFam-vidaenpareja.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portafolio-ConFam-vidaenpareja.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/portafolio-contemporaneo.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5190,15 +5463,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/portafolio-educativo.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/portafolio-enfermedades.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portafolio-enfermedades.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5383,20 +5647,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/portafolio-M3DiplomadoVts_Atencion.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portafolio-M3DiplomadoVts_Atencion.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/portafolio-marketing.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/portafolio-marketing.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portafolio-matematicas.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portafolio-matematicas.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5518,6 +5782,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/portafolio-Tecnologia-Alimentos.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portafolio-Tecnologia-Alimentos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/portafolio-Teoaplicada.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5559,24 +5832,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/portafolio-ventas.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/portafolio-vidasaludable.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portafolio-vidasaludable.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/portafolio_M1DiplomadoVts_Tecnicas.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portafolio_M1DiplomadoVts_Tecnicas.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5640,15 +5895,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/portfolio-item-video.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/portfolio.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5910,6 +6156,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/spot3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/spot3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -5954,6 +6209,15 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/ventajas-de-estudiar-en-umvirtual.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ventajas-de-estudiar-en-umvirtual.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
@@ -5974,6 +6238,8 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
 	"coffeeAutoOutputPathRelativePath": "",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
@@ -6099,6 +6365,8 @@
 	"externalServerAddress": "http:\/\/localhost:8888",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
 	"hamlAutoOutputPathRelativePath": "",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
@@ -6110,19 +6378,22 @@
 	"hamlUseCDATA": 0,
 	"hamlUseDoubleQuotes": 0,
 	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 0,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 2,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 1,
-	"javascriptOutputSuffix": "-ck",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -6497,11 +6768,15 @@
 			"flagValue": -1
 			}
 		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
 	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
@@ -6514,6 +6789,8 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
@@ -6522,6 +6799,8 @@
 	"markdownEnableSmartyPants": 1,
 	"markdownExpandTabs": 1,
 	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
@@ -6534,6 +6813,8 @@
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
@@ -6542,6 +6823,8 @@
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
 	"stylusAutoOutputPathRelativePath": "..\/css",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
@@ -6550,6 +6833,8 @@
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
 	"typescriptAutoOutputPathRelativePath": "\/js",
 	"typescriptAutoOutputPathReplace1": "",
 	"typescriptAutoOutputPathReplace2": "",
