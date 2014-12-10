@@ -121,6 +121,10 @@ video {
 .mb3px {
     margin-bottom: 3px;
 }
+.centrar{
+    margin: o auto;
+    text-align: center;
+}
 /* Clearfix */
 
 .clear {
@@ -2224,8 +2228,10 @@ pre{
 	display: inline-flex;
 	width: 46%;
 	margin: 4% 1em 0;
-	font-size:1em;	
+	font-size:1em;
+    font-family: sans-serif
 }
+
 
 .t30 td{
 	padding:0 0 0 1.8em;
@@ -2238,12 +2244,14 @@ pre{
 	.t30 tr:first-child{
 		background: #4B0B3F;
 		color: #fff;
+        
 	}
 	.t30 tr:nth-child(2){
 		background: #560C47;
 		color: #eee;
 		
 	}
+
 
 /* provide some minimal visual accomodation for IE8 and below */
 	.t30 tr{
@@ -2257,6 +2265,11 @@ pre{
 	.t30 tr:first-child{
 		background: #4B0B3F;
 	}
+    .t30 tr:last-child td{
+		font-family: sans-serif;
+        font-weight: bold;
+        ;
+	}    
 
 @media (max-width: 959px) {
     .t30{width: 44%;}
