@@ -121,7 +121,7 @@ video {
 .mb3px {
     margin-bottom: 3px;
 }
-.centrar{
+.centrar {
     margin: o auto;
     text-align: center;
 }
@@ -588,6 +588,7 @@ ul#navlist li a.selected {
 .iconbox a:hover .arrow-box-hover,
 .project-list li:hover .arrow-box-hover {
     visibility: visible;
+    margin-bottom: 1em;
 }
 /* ---------------------------------------------------------------------- */
 
@@ -2158,7 +2159,7 @@ table .centrar {
         width: 100%;
     }
 }
-pre{
+pre {
     background: #1d1f21;
     display: block;
     overflow: auto;
@@ -2166,117 +2167,131 @@ pre{
     white-space: normal;
     font-weight: bold;
 }
-.f_line{}
-.line{margin-left: 3em;}
-.variable{color: #628edd ;}
-.atributo{color: #b77fdb ;}
-.numero{color: #7a9603 ;}
-.valor{color: #ce8c31 ;}
-#tablaSO{
-	margin: 0 auto;
-	width: 610px;
-
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	-o-box-sizing: border-box;
-	-ms-box-sizing: border-box;
-	box-sizing: border-box;
+.f_line {} .line {
+    margin-left: 3em;
 }
-	/*Definimos la cabecera o título de la tabla*/
-	#tablaSO .header-tabla{
-		background: #84E657;
-		color: black;
-		font-size: 16px;
-		padding: 16px;
-		text-align: center;
-		-webkit-box-sizing: border-box;
-		-moz-box-sizing: border-box;
-		-o-box-sizing: border-box;
-		-ms-box-sizing: border-box;
-		box-sizing: border-box;
-	}
-	/*Definimos la fila*/
-	#tablaSO .fila{
-		background: white;
-		padding: 5px;
-		-webkit-box-sizing:;
-		-moz-box-sizing: border-box;
-		-o-box-sizing: border-box;
-		-ms-box-sizing: border-box;
-		box-sizing: border-box;
-	}
-		/*Todas las filas son blancas, pero con
+.variable {
+    color: #628edd;
+}
+.atributo {
+    color: #b77fdb;
+}
+.numero {
+    color: #7a9603;
+}
+.valor {
+    color: #ce8c31;
+}
+#tablaSO {
+    margin: 0 auto;
+    width: 610px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*Definimos la cabecera o título de la tabla*/
+
+#tablaSO .header-tabla {
+    background: #84E657;
+    color: black;
+    font-size: 16px;
+    padding: 16px;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*Definimos la fila*/
+
+#tablaSO .fila {
+    background: white;
+    padding: 5px;
+    -webkit-box-sizing: ;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*Todas las filas son blancas, pero con
 			este selector podemos intercalar colores
 			con gris*/
-		#tablaSO .fila:nth-child(odd){
-			background: #eee;
-		}
-	/*Definimos la cabecera de cada columna*/
-	#tablaSO .cabecera{
-		background: #68C73C;
-	}
-	/*Definimos las columnas*/
-	#tablaSO .columna{
-		color: black;
-		display: inline-block;
-		text-align: center;
-		width: 197px;
-	}
 
-	
-.t30{
-	display: inline-flex;
-	width: 46%;
-	margin: 4% 1em 0;
-	font-size:1em;
+#tablaSO .fila:nth-child(odd) {
+    background: #eee;
+}
+/*Definimos la cabecera de cada columna*/
+
+#tablaSO .cabecera {
+    background: #68C73C;
+}
+/*Definimos las columnas*/
+
+#tablaSO .columna {
+    color: black;
+    display: inline-block;
+    text-align: center;
+    width: 197px;
+}
+.t30 {
+    display: inline-flex;
+    width: 46%;
+    margin: 4% 1em 0;
+    font-size: 1em;
     font-family: sans-serif
 }
-
-
-.t30 td{
-	padding:0 0 0 1.8em;
-	text-align: left;
+.t30 td {
+    padding: 0 0 0 1.8em;
+    text-align: left;
 }
-.t30 th{
-	text-align: center;
+.t30 th {
+    text-align: center;
 }
-
-	.t30 tr:first-child{
-		background: #4B0B3F;
-		color: #fff;
-        
-	}
-	.t30 tr:nth-child(2){
-		background: #560C47;
-		color: #eee;
-		
-	}
-
-
+.t30 tr:first-child {
+    background: #4B0B3F;
+    color: #fff;
+}
+.t30 tr:nth-child(2) {
+    background: #560C47;
+    color: #eee;
+}
 /* provide some minimal visual accomodation for IE8 and below */
-	.t30 tr{
-		background: #eee;
-		
-	}
-	/*  Define the background color for all the ODD background rows  */
-	.t30 tr:nth-child(odd){ 
-		background: #d9d9d9;
-	}
-	.t30 tr:first-child{
-		background: #4B0B3F;
-	}
-    .t30 tr:last-child td{
-		font-family: sans-serif;
-        font-weight: bold;
-        ;
-	}    
 
+.t30 tr {
+    background: #eee;
+}
+/*  Define the background color for all the ODD background rows  */
+
+.t30 tr:nth-child(odd) {
+    background: #d9d9d9;
+}
+.t30 tr:first-child {
+    background: #4B0B3F;
+}
+.t30 tr:last-child td {
+    font-family: sans-serif;
+    font-weight: bold;
+    ;
+}
 @media (max-width: 959px) {
-    .t30{width: 44%;}
+    .t30 {
+        width: 44%;
+    }
 }
 @media (max-width: 767px) {
-    .t30{
-		width: 100%;
-		margin: 0 0 1em;
-	}
+    .t30 {
+        width: 100%;
+        margin: 0 0 1em;
+    }
+}
+.crop {
+    overflow: hidden;
+    height: 135px;
+}
+
+.crop img{
+    width: 100%;
 }
